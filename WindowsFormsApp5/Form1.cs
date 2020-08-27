@@ -30,6 +30,7 @@ namespace WindowsFormsApp5
             worker.RunWorkerAsync();
 
             src = "C:\\iot";
+            textBox1.Text = src;
         }
 
         private void worker_DoWorker(object sender, DoWorkEventArgs e)
