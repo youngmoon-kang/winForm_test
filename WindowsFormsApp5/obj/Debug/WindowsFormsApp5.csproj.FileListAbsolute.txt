@@ -8,3 +8,13 @@ C:\Users\Kang\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFo
 C:\Users\Kang\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
 C:\Users\Kang\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
 C:\Users\Kang\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Kang\Desktop\gitTest\winForm_test\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\Kang\Desktop\gitTest\winForm_test\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Kang\Desktop\gitTest\winForm_test\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Kang\Desktop\gitTest\winForm_test\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Kang\Desktop\gitTest\winForm_test\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Kang\Desktop\gitTest\winForm_test\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Kang\Desktop\gitTest\winForm_test\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Kang\Desktop\gitTest\winForm_test\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Kang\Desktop\gitTest\winForm_test\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Kang\Desktop\gitTest\winForm_test\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
